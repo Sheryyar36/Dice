@@ -29,6 +29,11 @@ body div button {
     background-color:aquamarine;
     justify-self: center;
 }
+
+body div button:active {
+    box-shadow: inset 2px 2px 10px cadetblue;
+    outline: none;
+}
 footer {
     margin: 50px;
 }
