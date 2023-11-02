@@ -13,6 +13,7 @@ h1 {
     font-family: 'Lobster', sans-serif;
     color: aquamarine;
     font-size: 5rem;
+    flex-shrink: 2;
 }
 
 body div {
